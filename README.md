@@ -14,3 +14,5 @@ University of California, Irvine</br>
 <b> Certificate in Instructional Design</b><br>
 California State University, Fullerton
 
+### Coming Soon<br/>
+👓 stay tuned for my showcased work as I get this thing up and running!
