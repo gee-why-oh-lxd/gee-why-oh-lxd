@@ -1,0 +1,1 @@
+window.globalLoadJsAsset('story_content/5fsK6o6bqoz_captions.js', {"captions":[{"langCode":"en-US","data":"WEBVTT%0D%0A%0D%0ANOTE%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.101.34961.0%0D%0A%0D%0A00:00:00.096%20--%3E%2000:00:02.720%0D%0AYou\'re%20a%20real%20one.%20(laughs)%20Thanks%20Gladys!%0D%0A%0D%0A"}]})
