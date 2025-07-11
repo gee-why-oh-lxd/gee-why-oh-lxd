@@ -1,1 +1,0 @@
-window.globalLoadJsAsset('story_content/6bvTrTsJ9WT_captions.js', {"captions":[{"langCode":"en-US","data":"WEBVTT%0D%0A%0D%0ANOTE%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.101.34961.0%0D%0A%0D%0A00:00:00.452%20--%3E%2000:00:01.604%0D%0AAwesome.%0D%0A%0D%0A00:00:02.437%20--%3E%2000:00:03.204%0D%0AYes.%0D%0A%0D%0A"}]})
