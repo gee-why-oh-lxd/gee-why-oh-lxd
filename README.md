@@ -18,9 +18,13 @@
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Static Badge](https://img.shields.io/badge/%F0%9F%92%A1Aritculate_Suite-%23c90076?style=for-the-badge&logoColor=%23c90076&logoSize=auto)
 
 # 🖲️ Featured Projects:<br>
-<img width="425" height="319" alt="thumbnail for assist project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" />
+<img width="425" height="319" alt="thumbnail for assist project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" /> 
 
-### [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/)
+
+### [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) <br/>
+**audience:** UC transfer hopefuls at beginning of their transfer journey<br/>
+**context:** My first time completing a project using generative AI text-to-speech. I used Bark by Suno, which is known for its realistic voices. I had fun utilizing this for dialogue mirroring the daily experience of intended audience, hence the pauses and lingo.<br/><br/>
+**Viewed the project and have feedbback on what well or not well?** Please feel free to email me. Always looking to improve the learning experience for my audience.
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
