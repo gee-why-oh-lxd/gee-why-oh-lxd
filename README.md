@@ -26,6 +26,12 @@
 **context:** My first time completing a project using generative AI text-to-speech. I used Bark by Suno, which is known for its realistic voices. I had fun utilizing this for dialogue mirroring the daily experience of intended audience, hence the pauses and lingo.<br/><br/>
 **Viewed the project and have feedback on what well or not well?** Please feel free to email me. Always looking to improve the learning experience for my audience.
 
+# 📄 Instructional Design and Training Document samples <br/>
+**Needs Analysis, Customer Service Representative Onboarding** <br/>
+[Needs Analysis sample](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Needs%20Analysis%20Walkthrough.pdf) <br/>
+[Training Proposal sample](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Training%20Proposal%20-%20Peak%20Season%20Upskilling.pdf)<br/>
+[On-the-job training checklist sample](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/On-the-Job%20Training%20Checklist%20.pdf)
+
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
