@@ -31,7 +31,7 @@
 [Needs Analysis sample](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Needs%20Analysis%20Walkthrough.pdf) <br/>
 **Training Proposal, Peak Season Upskilling, Express Deliveries** <br/>
 [Training Proposal sample](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Training%20Proposal%20-%20Peak%20Season%20Upskilling.pdf)<br/>
-**On-the-job training checklist, enterprise resource orientation** <br/>
+**On-the-job training checklist, Enterprise Resource Orientation** <br/>
 [On-the-job training checklist sample](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/On-the-Job%20Training%20Checklist%20.pdf)
 
 # ✍️ Random Dev Quote
