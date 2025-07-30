@@ -24,7 +24,7 @@
 ### [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) <br/>
 **audience:** UC transfer hopefuls at beginning of their transfer journey<br/>
 **context:** My first time completing a project using generative AI text-to-speech. I used Bark by Suno, which is known for its realistic voices. I had fun utilizing this for dialogue mirroring the daily experience of intended audience, hence the pauses and lingo.<br/><br/>
-**Viewed the project and have feedbback on what well or not well?** Please feel free to email me. Always looking to improve the learning experience for my audience.
+**Viewed the project and have feedback on what well or not well?** Please feel free to email me. Always looking to improve the learning experience for my audience.
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
