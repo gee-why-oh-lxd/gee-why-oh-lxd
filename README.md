@@ -18,6 +18,8 @@
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Static Badge](https://img.shields.io/badge/%F0%9F%92%A1Aritculate_Suite-%23c90076?style=for-the-badge&logoColor=%23c90076&logoSize=auto)
 
 # 🖲️ Featured Project:<br>
+
+# educational media:<br>
 <img width="200" height="150" alt="thumbnail for assist project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" /> 
 
 
