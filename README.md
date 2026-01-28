@@ -19,13 +19,13 @@
 
 # 🖲️ Featured Project:<br>
 
-# educational media:<br>
+# ▶️ Educational Media:<br>
 <img width="200" height="150" alt="thumbnail for assist project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" /> 
 
 
 ### [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) <br/>
-**audience:** UC transfer hopefuls at beginning of their transfer journey<br/>
-**context:** My first time completing a project using generative AI text-to-speech. I used Bark by Suno, which is known for its realistic voices. I had fun utilizing this for dialogue mirroring the daily experience of intended audience, hence the pauses and lingo.<br/><br/>
+**audience:** UC transfer hopefuls <br/>
+**context:** My first time using generative AI text-to-speech. I used Bark by Suno, known for its realistic voices. I utilized this for dialogue mirroring daily experience of intended audience, hence the pauses and lingo.<br/><br/>
 **Viewed the project and have feedback on what well or not well?** Please feel free to email me. Always looking to improve the learning experience for my audience.
 
 # 📄 Instructional Design and Training Document samples <br/>
