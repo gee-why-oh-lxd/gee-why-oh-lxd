@@ -9,7 +9,7 @@
 
 
 ### Coming Soon<br/>
-👓 San Francisco Supervisors Learning 
+👓 Instructional Video: Repotting a Succulent
 
 # 💻 Tech Stack:
 ![Static Badge](https://img.shields.io/badge/%E2%98%81%EF%B8%8FOracle_SCM_Cloud-%235b5b5b?style=for-the-badge&logoColor=%235b5b5b&logoSize=auto)
