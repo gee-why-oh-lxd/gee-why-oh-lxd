@@ -18,23 +18,9 @@
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Static Badge](https://img.shields.io/badge/%F0%9F%92%A1Aritculate_Suite-%23c90076?style=for-the-badge&logoColor=%23c90076&logoSize=auto)
 
 # 🖲️ Featured Project:<br>
+San Francisco Supervisors Learning
 
 # ▶️ Educational Media:<br>
-
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th style="width:70%;"> <a href="https://gee-why-oh-lxd.github.io/Project-Publish" target="_blank">Using Assist as a Transfer Tool e_learning</a></th>
-      <th style="width:30%;"><b>Project Information</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img width="300" height="250" alt="thumbnail for assist project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" /> </td>
-      <td><b>Audience:</b> University of California transfer hopefuls<br>
-      <b>Context:</b> My first time using generative AI text-to-speech. I used Bark by Suno, known for its realistic voices. <br> I utilized this for dialogue mirroring daily experience of intended audience, hence the pauses and lingo.<br> </td>
-  
-
 
 ### [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) <br/>
 **audience:** UC transfer hopefuls <br/>
