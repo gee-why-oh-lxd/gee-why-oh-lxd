@@ -24,7 +24,7 @@
 <table style="width:100%">
   <thead>
     <tr>
-      <th style="width:60%;"><a href="[https://www.example.com](https://gee-why-oh-lxd.github.io/Project-Publish/)" target="_blank"> <b>Using Assist as a Transfer Tool e_learning</b></a></th>
+      <th style="width:60%;"><a href="[https://www.example.com](https://gee-why-oh-lxd.github.io/Project-Publish/)" target="_blank">Using Assist as a Transfer Tool e_learning</a></th>
       <th style="width:40%;">Project Information</th>
     </tr>
   </thead>
