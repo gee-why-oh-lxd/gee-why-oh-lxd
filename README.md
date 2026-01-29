@@ -10,7 +10,7 @@
 
 # 🖲️ Featured Project: 
 | [San Francisco Supervisors e-Learning](https://gee-why-oh-lxd.github.io/San-Francisco-Supervisors/) | 
-| :--------: | 
+| ---------- | 
 | <img src="images//SFSupePrev3.png" alt="Featured Project Screen Grab" width="60%">  <!-- 70% of parent container --> | 
 
 
