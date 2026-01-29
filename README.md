@@ -20,7 +20,25 @@
 # 🖲️ Featured Project:<br>
 
 # ▶️ Educational Media:<br>
-|## [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) | Second Header |
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th style="width:70%;">Name</th>
+      <th style="width:30%;">Age</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>John Doe</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>Jane Smith</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>
+| [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) | Second Header |
 | ------------- | ------------- |
 | <img width="200" height="150" alt="thumbnail for assist project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" />  | Content Cell  |
 | ### **Audience:** UC transfer hopefuls | Content Cell |
