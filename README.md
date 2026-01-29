@@ -9,6 +9,7 @@
 
 
 # 🖲️ Featured Project: San Francisco Supervisors Learning<br>
+<img src="images/SupervisorsScreenGrab.png" alt="Featured Project Screen Grab" width="50%">  <!-- 50% of parent container -->
 ![Featured Project Screen Grab](images/SupervisorsScreenGrab.png "Learning Preview")
 
 # ▶️ Educational Media:<br>
