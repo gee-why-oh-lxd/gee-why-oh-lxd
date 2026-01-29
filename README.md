@@ -30,7 +30,7 @@ daily experience of intended audience, hence the pauses and lingo.<br/><br/>
 **Viewed the project and have feedback on what well or not well?** Please feel free to email me. 
 Always looking to improve the learning experience for my audience.
 
-| <div style="width: 150px;">Name</div> | Age |
+| <div style="width: 450px;">Name</div> | Age |
 |---|---|
 | John Doe | 25 |
 | Jane Smith | 30 |
