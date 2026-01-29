@@ -22,8 +22,9 @@ San Francisco Supervisors Learning
 
 # ▶️ Educational Media:<br>
 
-| [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/)   | Second Header |
+| Project Title and Link | Context |
 | ------------- | ------------- |
+|[Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) | Content Cell | 
 | <img width="300" height="300" alt="thumbnail for assist project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" /> | Content Cell  |
 | Content Cell  | Content Cell  |
 
