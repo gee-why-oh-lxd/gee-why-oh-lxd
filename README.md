@@ -10,7 +10,7 @@
 
 # 🖲️ Featured Project:<br>
 San Francisco Supervisors Learning </br>
-<img width="600" height="500" alt="preview, supervisor project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" />
+<img width="600" height="500" alt="preview, supervisor project" src="[https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/San%20Francisco%20Supervisors%20Preview%20Github.png?raw=true)" />
 
 # ▶️ Educational Media:<br>
 
