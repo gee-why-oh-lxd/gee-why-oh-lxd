@@ -8,8 +8,7 @@
 💫 quirky <br/>
 
 
-# 🖲️ Featured Project:<br>
-San Francisco Supervisors Learning </br>
+# 🖲️ Featured Project: San Francisco Supervisors Learning<br>
 ![Featured Project Screen Grab](images/SupervisorsScreenGrab.png "Learning Preview")
 
 # ▶️ Educational Media:<br>
