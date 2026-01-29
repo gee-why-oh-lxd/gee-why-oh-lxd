@@ -30,6 +30,11 @@ daily experience of intended audience, hence the pauses and lingo.<br/><br/>
 **Viewed the project and have feedback on what well or not well?** Please feel free to email me. 
 Always looking to improve the learning experience for my audience.
 
+| <div style="width: 150px;">Name</div> | Age |
+|---|---|
+| John Doe | 25 |
+| Jane Smith | 30 |
+
 # 📄 Instructional Design and Training Document samples <br/>
 **Needs Analysis, Customer Service Representative Onboarding** <br/>
 [Needs Analysis sample](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Needs%20Analysis%20Walkthrough.pdf) <br/>
