@@ -9,7 +9,8 @@
 
 
 # 🖲️ Featured Project:<br>
-San Francisco Supervisors Learning
+San Francisco Supervisors Learning </br>
+<img width="600" height="500" alt="preview, supervisor project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" />
 
 # ▶️ Educational Media:<br>
 
