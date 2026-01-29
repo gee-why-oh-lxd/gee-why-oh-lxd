@@ -12,6 +12,7 @@
 | [San Francisco Supervisors e-Learning](https://gee-why-oh-lxd.github.io/San-Francisco-Supervisors/) | 
 | :--------: | 
 | <img src="images//SFSupePrev3.png" alt="Featured Project Screen Grab" width="80%">  <!-- 80% of parent container --> | 
+<div style="text-align:left;"><b>Audience:</b> San Francisco residents with novice-level understanding of local policy making</div>
 
 
 
