@@ -22,6 +22,11 @@ San Francisco Supervisors Learning
 
 # ▶️ Educational Media:<br>
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ### [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) <br/>
 **audience:** UC transfer hopefuls <br/>
 **context:** My first time using generative AI text-to-speech. I used Bark by Suno, 
@@ -36,8 +41,7 @@ Always looking to improve the learning experience for my audience.
 **Needs Analysis, Customer Service Representative Onboarding** <br/>
 [Needs Analysis sample](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Needs%20Analysis%20Walkthrough.pdf) <br/>
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gee-why-oh-lxd&icon=0&color=0)](https://visitcount.itsvg.in)
