@@ -16,7 +16,7 @@ San Francisco Supervisors Learning
 | [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) | 
 | :---          | 
 | <img width="300" height="300" alt="thumbnail for assist project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" /> | 
-| **Audience:** University of California transfer hopefuls <br/><br/> **Context:** My first time using generative AI text-to-speech. <br/> I used Bark by Suno, known for its realistic voices for <br/> dialogue mirroring daily experience of intended audience,<br/>  hence the pauses and lingo.<br/><br/>|
+| <br/> **Audience:** University of California transfer hopefuls <br/><br/> **Context:** My first time using generative AI text-to-speech. <br/> I used Bark by Suno, known for its realistic voices for <br/> dialogue mirroring daily experience of intended audience,<br/>  hence the pauses and lingo.<br/><br/>|
 
 # 📄 Instructional Design and Training Document samples <br/>
 **Needs Analysis, Customer Service Representative Onboarding** <br/>
