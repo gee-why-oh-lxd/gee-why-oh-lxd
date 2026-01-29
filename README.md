@@ -24,14 +24,15 @@
 <table style="width:100%">
   <thead>
     <tr>
-      <th style="width:70%;">Name</th>
-      <th style="width:30%;">Age</th>
+      <th style="width:60%;">[Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/)</th>
+      <th style="width:40%;">Project Information</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>John Doe</td>
-      <td>25</td>
+      <td><img width="200" height="150" alt="thumbnail for assist project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" /> </td>
+      <td>**Audience:** University of California transfer hopefuls<br>
+      **Context:** My first time using generative AI text-to-speech. I used Bark by Suno, known for its realistic voices. I utilized this for dialogue mirroring daily experience of intended audience, hence the pauses and lingo.<br> </td>
     </tr>
     <tr>
       <td>Jane Smith</td>
