@@ -30,10 +30,6 @@
 | Needs Analysis | [Real Time Specialist Onboarding](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Needs%20Analysis%20Walkthrough.pdf) |
 
 
-Needs Analysis
-**Needs Analysis, Customer Service Representative Onboarding** <br/>
-[Needs Analysis sample](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Needs%20Analysis%20Walkthrough.pdf) <br/>
-
 # 💻 Tech Stack:
 ![Static Badge](https://img.shields.io/badge/%E2%98%81%EF%B8%8FOracle_SCM_Cloud-%235b5b5b?style=for-the-badge&logoColor=%235b5b5b&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/%F0%9F%92%A1Adobe_Captivate-4169E1?style=for-the-badge&logoColor=4169E1&logoSize=auto) ![Static Badge](https://img.shields.io/badge/%F0%9F%96%87%EF%B8%8FAWS-%231A1A1A?style=for-the-badge&logoColor=%231A1A1A&logoSize=auto)
