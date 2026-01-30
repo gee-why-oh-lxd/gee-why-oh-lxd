@@ -24,6 +24,13 @@
 | <br/> **Audience:** University of California transfer hopefuls <br/><br/> **Context:** My first time using generative AI text-to-speech. <br/> I used Bark by Suno, known for its realistic voices for <br/> dialogue mirroring daily experience of intended audience,<br/>  hence the pauses and lingo.<br/><br/>|
 
 # 📄 Instructional Design and Training Document samples <br/>
+
+| Instructional Design Document | Title/Link |
+| :---          | :-------:|
+| Needs Analysis | [Real Time Specialist Onboarding](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Needs%20Analysis%20Walkthrough.pdf) |
+
+
+Needs Analysis
 **Needs Analysis, Customer Service Representative Onboarding** <br/>
 [Needs Analysis sample](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Needs%20Analysis%20Walkthrough.pdf) <br/>
 
