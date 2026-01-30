@@ -12,9 +12,14 @@
 | [San Francisco Supervisors e-Learning](https://gee-why-oh-lxd.github.io/San-Francisco-Supervisors/) | 
 | :--------: | 
 | <img src="images//SFSupePrev3.png" alt="Featured Project Screen Grab" width="80%">  <!-- 80% of parent container --> | 
-<div style="text-align:left;"><b>Audience:</b> San Francisco residents with novice-level understanding of local policy making</div>
-
-
+<div style="text-align:left;"><b>Audience:</b> San Francisco residents with novice-level understanding of local policy making</div> <br/>
+<div style="text-align:left;"><b>Instructional Design:</b> Generally, my instructional approach leans heavily on Constructivism, a learning</div>
+<div style="text-align:left;">theory in which learners act as primary meaning makers for acquired knowledge. As learners </div>
+<div style="text-align:left;">encounter new information, their ways of knowing are based on the culmination of previous experiences. </div>
+<div style="text-align:left;">You will certainly see the Constructivism in this eLearning when exploring interactive elements </div>
+<div style="text-align:left;">and completing learning activities.</div><br/>
+<div style="text-align:left;"><b>Development Notes:</b> I made use of generative AI for images to create a cohesive look in hopes of increasing</div>
+<div style="text-align:left;">the learner's engagement and experience.</div>
 
 # ▶️ Educational Media:<br>
 
