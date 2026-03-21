@@ -22,11 +22,15 @@
 <div style="text-align:left;">the learner's engagement and experience.</div>
 
 # ▶️ Educational Media:<br>
+| [Repotting a Succulent Video](https://youtu.be/KXW8wsBABjo) | 
+| :---          | 
+|<img src="images/Repotting a Succulent.jpg" alt="Thumbnail, Repotting a Succulent" width="400" height="300"> | 
+| <br/> **Audience:** New succulent enthusiasts <br/><br/> **Context:** I made this to showcase my video production proficiency. <br/> I recorded the video in my backyard and used DaVinci Resolve, <br/> a great 'freeware' video editor. It had been a while since the last <br/> time I used the tool, and the latest update had a whole new <br/> interface, yet I still finished cutting in two and a half hours. <br/><br/> I originally planned have background music, but found <br/> I liked the ambient noise, so I went with it. <br/><br/> **Note to viewers:** please click on 1080p HD for **best viewing results.** <br/>|
 
 | [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) | 
 | :---          | 
 | <img width="400" height="300" alt="thumbnail for assist project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" /> | 
-| <br/> **Audience:** University of California transfer hopefuls <br/><br/> **Context:** My first time using generative AI text-to-speech. <br/><br/> I used Bark by Suno, known for its realistic voices for <br/> dialogue mirroring daily experience of intended audience,<br/>  hence the pauses and lingo.<br/><br/> In addition to nifty information, tune-in for the **instructional videos I created** <br/> **for learner scenario and simulation purposes.** <br/>|
+| <br/> **Audience:** University of California transfer hopefuls <br/><br/> **Context:** My first time using generative AI text-to-speech. <br/><br/> I used Bark by Suno, known for its realistic voices for <br/> dialogue mirroring daily experience of intended audience,<br/>  hence the pauses and lingo.<br/><br/> In addition to nifty information, tune-in for the **instructional videos** <br/> **I created for learner scenario and simulation purposes.** <br/>|
 
 # 📄 Instructional Design and Training Document samples <br/>
 
@@ -41,5 +45,4 @@
 ![Static Badge](https://img.shields.io/badge/%F0%9F%97%83%EF%B8%8FAzure_DevOps-%23073763?style=for-the-badge&logoColor=%23073763&logoSize=auto) ![Static Badge](https://img.shields.io/badge/%F0%9F%93%BD%EF%B8%8F%20DaVinci_Resolve-%23eeeeee?style=for-the-badge&logoColor=%23eeeeee&logoSize=auto) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Static Badge](https://img.shields.io/badge/%F0%9F%93%BD%EF%B8%8FAdobe_Premiere_Pro-%23d9d2e9?style=for-the-badge&logoColor=%23d9d2e9&logoSize=auto) ![Static Badge](https://img.shields.io/badge/%F0%9F%92%BB%20Microsoft_365-%239fc5e8?style=for-the-badge&logoColor=%239fc5e8&logoSize=auto) ![Static Badge](https://img.shields.io/badge/%F0%9F%8E%A7%20Audacity-%23504cca?style=for-the-badge&logoColor=%23504cca&logoSize=auto)
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Static Badge](https://img.shields.io/badge/%F0%9F%92%A1Aritculate_Suite-%23c90076?style=for-the-badge&logoColor=%23c90076&logoSize=auto)
 
-### Coming Soon<br/>
-👓 Instructional Video: Repotting a Succulent
+
