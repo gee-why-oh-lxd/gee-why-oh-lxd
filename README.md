@@ -37,6 +37,7 @@
 | Instructional Design Document | Title/Link |
 | :---          | :-------:|
 | Needs Analysis | [Real Time Specialist Onboarding](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Needs%20Analysis%20Walkthrough.pdf) |
+| Job Aid | [Plan Your Way to Collaborative Meetings](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Collaborative%20Meetings.pdf) |
 
 
 # 💻 Tech Stack:
