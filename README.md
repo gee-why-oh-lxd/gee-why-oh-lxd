@@ -25,7 +25,7 @@
 | [Repotting a Succulent Video](https://youtu.be/KXW8wsBABjo) | 
 | :---          | 
 |<img src="images/Repotting a Succulent.jpg" alt="Thumbnail, Repotting a Succulent" width="400" height="300"> | 
-| <br/> **Audience:** New succulent enthusiasts <br/><br/> **Context:** I made this to showcase my video production proficiency. <br/> I recorded the video in my backyard and used DaVinci Resolve, <br/> a great 'freeware' video editor. It had been a while since the last <br/> time I used the tool, and the latest update had a whole new <br/> interface, yet I still finished cutting in two and a half hours. <br/><br/> I originally planned have background music, but found <br/> I liked the ambient noise, so I went with it. <br/><br/> **Note to viewers:** please click on 1080p HD for **best viewing results.** <br/>|
+| <br/> **Audience:** New succulent enthusiasts <br/><br/> **Context:** I made this to showcase my video production proficiency. <br/> I recorded the video in my backyard and used DaVinci Resolve, <br/> a great 'freeware' video editor. It had been a while since the last <br/> time I used the tool, and the latest update had a whole new <br/> interface, yet I still finished cutting in two and a half hours. <br/><br/> I originally planned for background music, but found <br/> I liked the ambient noise, so I went with it. <br/><br/> **Note to viewers:** please click on 1080p HD for **best viewing results.** <br/>|
 
 | [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) | 
 | :---          | 
