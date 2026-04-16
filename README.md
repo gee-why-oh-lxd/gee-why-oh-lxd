@@ -18,8 +18,7 @@
 <div style="text-align:left;">encounter new information, their ways of knowing are based on the culmination of previous experiences. </div>
 <div style="text-align:left;">You will certainly see the Constructivism in this eLearning when exploring interactive elements </div>
 <div style="text-align:left;">and completing learning activities.</div><br/>
-<div style="text-align:left;"><b>Development Notes:</b> I made use of generative AI for images to create a cohesive look in hopes of increasing</div>
-<div style="text-align:left;">the learner's engagement and experience.</div>
+<div style="text-align:left;"><b>Development Notes:</b> I made use of generative AI for images to create a cohesive look in hopes of increasing learner engagement and experience.</div>
 
 # ▶️ Educational Media:<br>
 | [Repotting a Succulent Video](https://youtu.be/KXW8wsBABjo) | 
