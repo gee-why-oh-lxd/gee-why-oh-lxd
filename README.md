@@ -1,7 +1,7 @@
 # Hello and welcome to my learning design portfolio! 💁🏽‍♀️ I'm Geralyn, a Senior Learning Professional experienced in teaching, facilitation, and learning content for:<br/>
 📊 supply chain and manufacturing, <i>Niagara Bottling, three years</i> <br/>
-👩🏽‍🏫 adult education <i>Pasadena City College, three years</i> <br/>
-🏛️ higher education community outreach and policy advocacy <i>UC Berkeley and Advancing Justice - Los Angeles, eight years</i></br>
+👩🏽‍🏫 adult education, <i>Pasadena City College, three years</i> <br/>
+🏛️ higher education community outreach and policy advocacy, <i>UC Berkeley and Advancing Justice - Los Angeles, eight years</i></br>
 ### My Instructional Brand<br/>
 📈 growth mindset<br/>
 ✔️ applicable<br/>
