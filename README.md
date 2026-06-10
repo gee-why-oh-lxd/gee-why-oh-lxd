@@ -7,7 +7,7 @@
 ✔️ applicable<br/>
 💫 humorous <br/>
 ## A note to my reviewers about SaaS and enterprise technology<br/>
-In my work as an Instructional Designer, I designed multiple short, medium, and long-term training programs utilizing Oracle SCM. This includes the business suite, logistics manager, and customer relationship manager. I am proficient in functional areas of tools as applied to business proceess and tasks. My portfolio does not feature any of the simulations or exercises I've created due to proprietary reasons. However, I encourage you to review the below examples to <b>understand my instructional style and approach.</b>
+In my work as an Instructional Designer, I designed multiple short, medium, and long-term training programs utilizing Oracle SCM. This includes the business suite, logistics manager, and customer relationship manager. I am proficient in functional areas of tools as applied to business proceess and tasks. My portfolio does not feature any of the simulations or exercises I've created due to proprietary reasons. I have included <b>simulations, instructional videos, case scenarios, and interactive formative assessments</b> in the eLearning examples below.  I encourage you to review the below examples to <b>understand my instructional style and approach.</b>
 
 # 🖲️ Featured Project: 
 | [San Francisco Supervisors e-Learning](https://gee-why-oh-lxd.github.io/San-Francisco-Supervisors/) | 
