@@ -12,7 +12,7 @@ In my work as an Instructional Designer, I designed multiple short, medium, and 
 # 🖲️ Featured Project: 
 | [San Francisco Supervisors e-Learning](https://gee-why-oh-lxd.github.io/San-Francisco-Supervisors/) | 
 | :--------: | 
-| <img src="images//SFSupePrev3.png" alt="Featured Project Screen Grab" width="80%">  <!-- 80% of parent container --> | 
+| [![Screenshot preview, San Francisco Supervisor e-Learning start page](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/images/SFSupePrev3.png)](https://gee-why-oh-lxd.github.io/San-Francisco-Supervisors/) | 
 <div style="text-align:left;"><b>Audience:</b> San Francisco residents with novice-level understanding of local policy making</div> <br/>
 <div style="text-align:left;"><b>Instructional Design:</b> Generally, my instructional approach leans heavily on Constructivism, a learning</div>
 <div style="text-align:left;">theory in which learners act as primary meaning makers for acquired knowledge. As learners </div>
@@ -24,13 +24,13 @@ In my work as an Instructional Designer, I designed multiple short, medium, and 
 # ▶️ Educational Media:<br>
 | [Repotting a Succulent Video](https://youtu.be/KXW8wsBABjo) | 
 | :---          | 
-|<img src="images/Repotting a Succulent.jpg" alt="Thumbnail, Repotting a Succulent" width="400" height="300"> | 
-| <br/> **Audience:** New succulent enthusiasts <br/><br/> **Context:** I made this to showcase my video production proficiency. <br/> I recorded the video in my backyard and used DaVinci Resolve, <br/> a great 'freeware' video editor. It had been a while since the last <br/> time I used the tool, and the latest update had a whole new <br/> interface, yet I still finished cutting in two and a half hours. <br/><br/> I originally planned for background music, but found <br/> I liked the ambient noise, so I went with it. <br/><br/> **Note to viewers:** please click on 1080p HD for **best viewing results.** <br/>|
+| [![Screenshot preview, Repotting Succulent Video](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/images/Repotting%20a%20Succulent.jpg)](https://youtu.be/KXW8wsBABjo) | 
+| <br/> **Audience:** New succulent enthusiasts <br/><br/> **Context:** I made this to showcase my video production proficiency. I recorded the video in my backyard and used DaVinci Resolve, a great 'freeware' video editor. It had been a while since the last time I used the tool, and the latest update had a whole new interface, yet I still finished cutting in two and a half hours. <br/><br/> I originally planned for background music, but found I liked the ambient noise, so I went with it. <br/><br/> **Note to viewers:** please click on 1080p HD for **best viewing results.** <br/>|
 
 | [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) | 
 | :---          | 
-| <img width="350" height="200" alt="thumbnail for assist project" src="https://github.com/user-attachments/assets/0fe9fd16-cd7a-457b-8f09-987f8da59428" /> | 
-| <br/> **Audience:** University of California transfer hopefuls <br/><br/> **Context:** My first time using generative AI text-to-speech. <br/><br/> I used Bark by Suno, known for its realistic voices for <br/> dialogue mirroring daily experience of intended audience,<br/>  hence the pauses and lingo.<br/><br/> In addition to nifty information, tune-in for the **instructional videos** <br/> **I created for learner scenario and simulation purposes.** <br/>|
+| [![Screenshot preview, Using Assist as a Transfer Tool](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/images/thumbnail%20for%20github.png)](https://gee-why-oh-lxd.github.io/Project-Publish/) | 
+| <br/> **Audience:** University of California transfer hopefuls <br/><br/> **Context:** My first time using generative AI text-to-speech. <br/><br/> I used Bark by Suno, known for its realistic voices for dialogue mirroring daily experience of intended audience,hence the pauses and lingo.<br/><br/> In addition to great information, enjoy the **instructional videos** **I included for learner scenario and simulation purposes.** <br/>|
 
 # 📄 Instructional Design and Training Document samples <br/>
 
