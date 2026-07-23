@@ -33,6 +33,8 @@ In my work as an Instructional Designer, I designed multiple short, medium, and 
 
 | Instructional Design Document | Title/Link |
 | :---          | :-------:|
+| Learning Graphic | [Sentence Fragments](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Sentence%20Fragments.png) |
+| Learning Graphic | [Compound Sentence](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/images/Compound%20Sentence.png) |
 | Training Opportunity Proposal | [Rush Order Refresher](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Training%20Opportunity%20Proposal.pdf) |
 | Needs Analysis | [Real Time Specialist Onboarding](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Needs%20Analysis%20Walkthrough.pdf) |
 | Job Aid | [Plan Your Way to Collaborative Meetings](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/Collaborative%20Meetings.pdf) |
