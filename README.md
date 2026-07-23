@@ -19,11 +19,14 @@ In my work as an Instructional Designer, I designed multiple short, medium, and 
 <div style="text-align:left;"><b>Development Notes:</b> I made use of generative AI for images to create a cohesive look in hopes of increasing learner engagement and experience.</div>
 
 # ▶️ Educational Media:<br>
+---
+<b>Two-Minute Instructional Video</b>
 | [Repotting a Succulent Video](https://youtu.be/KXW8wsBABjo) | 
 | :---          | 
 | [![Screenshot preview, Repotting Succulent Video](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/images/Repotting%20a%20Succulent.jpg)](https://youtu.be/KXW8wsBABjo) | 
 | <br/> **Audience:** New succulent enthusiasts <br/><br/> **Context:** I made this to showcase my video production proficiency. I recorded the video in my backyard and used DaVinci Resolve, a great 'freeware' video editor. It had been a while since the last time I used the tool, and the latest update had a whole new interface, yet I still finished cutting in two and a half hours. <br/><br/> I originally planned for background music, but found I liked the ambient noise, so I went with it. <br/><br/> **Note to viewers:** please click on 1080p HD for **best viewing results.** <br/>|
-
+---
+<b>10 minute e-Learning</b>
 | [Using Assist as a Transfer Tool e_learning](https://gee-why-oh-lxd.github.io/Project-Publish/) | 
 | :---          | 
 | [![Screenshot preview, Using Assist as a Transfer Tool](https://github.com/gee-why-oh-lxd/gee-why-oh-lxd/blob/main/images/thumbnail%20for%20github.png)](https://gee-why-oh-lxd.github.io/Project-Publish/) | 
